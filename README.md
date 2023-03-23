@@ -1,7 +1,7 @@
 # Full-Stack Serverless on AWS
 Building a Full-Stack Serverless Application on AWS
 
-# Requirements
+## Requirements
 ```shell
 # NPM
 npm install -g npm
@@ -17,5 +17,9 @@ npm install -g tsc
 ```
 
 
-# Contents
+## Contents
 - [Hello CDK](/hello-cdk/)
+
+
+## Resources
+- [CDK CLI](https://docs.aws.amazon.com/cdk/v2/guide/cli.html)
