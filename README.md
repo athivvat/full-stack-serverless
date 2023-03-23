@@ -19,7 +19,7 @@ npm install -g tsc
 
 ## Contents
 - [Hello CDK](/hello-cdk/)
-
+- [RESTful Microservice](/rest-api/)
 
 ## Resources
 - [CDK CLI](https://docs.aws.amazon.com/cdk/v2/guide/cli.html)
